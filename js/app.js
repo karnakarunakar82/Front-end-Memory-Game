@@ -184,11 +184,11 @@ function startTime() {
 
 // starcount function
 function rating() {
-  if (action > 9) {
+  if (action > 10 && action <15) {
     starCount = 2;
     starSection[2].style.display = "none";
   }
-  if (action > 12) {
+  if (action > 16) {
     starCount = 1;
     starSection[1].style.display = "none";
   }
