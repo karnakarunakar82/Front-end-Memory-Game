@@ -39,3 +39,16 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
  - If restart selects game will start again
 ### Challenge
  - Match cards in less time with less moves
+
+
+## Downloading and extracting  the Project
+  - Download the Project [Classical-Arcade-Game](https://github.com/udacity/frontend-nanodegree-arcade-game) in the   form Zip files
+  - After downloading the project extract the file 
+  - It contains  the following file 
+    - CSS folder 
+        * it consist of style.css which makeup the index.html
+    - images
+        * Consists of images used in game and the Used resources 
+    - js
+        * `app.js`
+              - contains javascript code that handles game functionality
